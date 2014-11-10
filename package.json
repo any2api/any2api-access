@@ -1,6 +1,6 @@
 {
   "name": "any2api-access",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "lodash": "*",
     "debug": "*",
