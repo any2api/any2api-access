@@ -4,4 +4,4 @@
 
 Local and remote (SSH) access functions for files, dirs, and executions
 
-    npm install mrsw-lock
+    npm any2api-access
