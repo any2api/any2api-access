@@ -1,12 +1,25 @@
 {
   "name": "any2api-access",
   "version": "0.0.2",
+  "author": "Johannes Wettinger <mail@jojow.de>",
+  "description": "Local and remote (SSH) access functions for files, dirs, and executions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/any2api/any2api-access"
+  },
+  "contributors": [
+    {
+      "name": "Johannes Wettinger",
+      "email": "mail@jojow.de"
+    }
+  ],
+  "preferGlobal": false,
   "dependencies": {
-    "lodash": "*",
-    "debug": "*",
-    "async": "*",
-    "fs-extra": "*",
-    "temp": "*",
-    "tar-fs": "*"
+    "lodash": "2.4.1",
+    "debug": "~2.1.0",
+    "async": "~0.9.0",
+    "fs-extra": "~0.12.0",
+    "temp": "~0.8.1",
+    "tar-fs": "~1.2.0"
   }
 }
