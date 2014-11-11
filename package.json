@@ -15,7 +15,7 @@
   ],
   "preferGlobal": false,
   "dependencies": {
-    "lodash": "2.4.1",
+    "lodash": "~2.4.1",
     "debug": "~2.1.0",
     "async": "~0.9.0",
     "fs-extra": "~0.12.0",
