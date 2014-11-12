@@ -5,3 +5,9 @@
 Local and remote (SSH) access functions for files, dirs, and executions
 
     npm install any2api-access
+
+
+
+## How to use any2api
+
+See [any2api-cli](https://www.github.com/any2api/any2api-cli) for how to use any2api from the command line.
