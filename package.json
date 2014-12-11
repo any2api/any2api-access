@@ -1,6 +1,6 @@
 {
   "name": "any2api-access",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Johannes Wettinger <mail@jojow.de>",
   "description": "Local and remote (SSH) access functions for files, dirs, and executions",
   "repository": {
