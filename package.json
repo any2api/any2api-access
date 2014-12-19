@@ -1,6 +1,6 @@
 {
   "name": "any2api-access",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Johannes Wettinger <mail@jojow.de>",
   "description": "Local and remote (SSH) access functions for files, dirs, and executions",
   "repository": {
@@ -27,6 +27,9 @@
     "fs-extra": "~0.12.0",
     "temp": "~0.8.1",
     "tar-fs": "~1.2.0"
+  },
+  "scripts": {
+    "prepare-runtime": "sh ./prepare-runtime.sh"
   },
   "engines": {
     "node": ">= 0.10"
