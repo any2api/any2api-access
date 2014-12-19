@@ -3,7 +3,7 @@
 set -e
 
 #SCRIPT_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
-SCRIPT_DIR=`dirname $0`
+#SCRIPT_DIR=`dirname $0`
 
 sys_has() {
   type "$1" > /dev/null 2>&1
@@ -26,6 +26,6 @@ fi
 
 
 
-cd $SCRIPT_DIR
+#cd $SCRIPT_DIR
 
-npm install
+#npm install
