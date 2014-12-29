@@ -1,4 +1,9 @@
+var ssh = require('./lib/SSH');
+var local = require('./lib/Local');
+
 module.exports = {
-  SSH: require('./lib/SSH'),
-  Local: require('./lib/Local')
+  SSH: ssh,
+  ssh: ssh,
+  Local: local,
+  local: local
 }
