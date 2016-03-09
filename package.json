@@ -31,8 +31,5 @@
   },
   "scripts": {
     "prepare-runtime": "sh ./prepare-runtime.sh"
-  },
-  "engines": {
-    "node": ">= 0.10"
   }
 }
